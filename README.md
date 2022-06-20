@@ -1,5 +1,9 @@
 # NgGameDatabaseWebsite
 
+![image](https://user-images.githubusercontent.com/72495167/174621807-5fd11831-1421-4efd-96ef-794eaf381c2d.png)
+![image](https://user-images.githubusercontent.com/72495167/174621876-b2fb05d0-293b-4620-9cf3-5996ea136a9a.png)
+![image](https://user-images.githubusercontent.com/72495167/174621928-796ecd62-dbc0-42d4-bb58-96073b205ac8.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
